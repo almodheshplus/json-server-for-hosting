@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "al-Tabari - The History of the Prophets and Kings",
+        "link": "https://www.australianislamiclibrary.org/tareekh-at-tabri.html",
+        "price": "PriceLess"
+      }
+    ],
+    "people": [
+      {
+        "id": 1,
+        "name": "Muhammad ibn Musa al-Khwarizmi",
+        "wikipedia": "https://en.wikipedia.org/wiki/Al-Khwarizmi"
+      },
+      {
+        "id": 2,
+        "name": "Ibn Sina",
+        "wikipedia": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B3%D9%8A%D9%86%D8%A7"
+      },
+      {
+        "id": 3,
+        "name": "Ibn Alhaithm",
+        "wikipedia": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85"
+      }
+    ]
+  }
+  

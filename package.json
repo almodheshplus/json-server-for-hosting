@@ -1,0 +1,24 @@
+{
+  "name": "json-server-for-hosting",
+  "version": "0.0.1",
+  "description": "a json server that can be used in hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hello": "echo 'Hello! (❁´◡`❁)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almodheshplus/json-server-for-hosting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almodheshplus/json-server-for-hosting/issues"
+  },
+  "homepage": "https://github.com/almodheshplus/json-server-for-hosting#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
